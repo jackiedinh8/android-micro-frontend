@@ -1,2 +1,2 @@
 # android-micro-frontend
-A basic android architect to support android micro-frontend development
+A basic android architect as the fisrt step to support android micro-frontend development.
