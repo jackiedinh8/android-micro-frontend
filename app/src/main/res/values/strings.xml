@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android-Micro-Frontend</string>
+
+    <string name="main_screen_name">Main screen</string>
+    <string name="main_screen_to_login_button_name">To Login</string>
+    <string name="main_screen_to_feature_button_name">To Feature</string>
+
+</resources>
