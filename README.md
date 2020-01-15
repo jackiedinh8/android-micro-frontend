@@ -9,6 +9,8 @@ Many of significant benefits of microservices are easily seen in frontends, name
 * Independent deployment
 * Autonomous teams
 
+Credit: https://tinyurl.com/uhotd4p by Eugene Matsyuk
+
 ## Android stack
 
 ### Dagger2
